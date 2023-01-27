@@ -1,0 +1,12 @@
+{
+  "name": "js-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "exercise_1": "node exercise1.js",
+    "exercise_2": "node exercise2.js"
+  },
+  "author": "aurel mirashi",
+  "license": "ISC"
+}
